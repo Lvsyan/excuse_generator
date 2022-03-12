@@ -1,3 +1,12 @@
+Explicación del ejercicio:
+
+- He creado un getElementBy para cambiar el h1 poniendole otro nombre desde el javascript
+- He declarado las variables de las palabras que se quieren enseñar al decir la excusa
+- He creado unas constantes para hacerlo más funcional y que se escriba lo menos posible
+- He creado una función recorriendo cada varible creada anteriormente para poder hacer las excusa
+- Hay un boton creado que al darle click se genera la excusa y se ha hecho a través del querySelecto dentro del onload 
+
+
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
